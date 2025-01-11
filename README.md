@@ -81,6 +81,4 @@ These conditions check the user's selected operation and perform the respective 
 
 This project serves as a simple calculator web application with a responsive design, providing basic arithmetic operations and a stylish background image. You can further extend this by adding more advanced features or improving the UI.
 
----
 
-### GitHub Repository Link
